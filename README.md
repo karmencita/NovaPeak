@@ -1,3 +1,3 @@
 # NovaPeak
 
-Pack territory  map.
+Pack territory  map for Nova Peak.
